@@ -1,0 +1,45 @@
+{
+  "places":[{
+    "name":"Bibliotheca Alexandrina",
+    "location":{
+               "lat" : 31.2088705,
+               "lng" : 29.9092012
+            }
+  },{
+    "name":"Alexandria Aquarium",
+    "location":{
+               "lat" : 31.212824,
+               "lng" : 29.88501
+            }
+  },{
+    "name":"Citadel of Qaitbay",
+    "location":{
+               "lat" : 31.214011,
+               "lng" : 29.885638
+            }
+  },{
+    "name":"McDonald's",
+    "location":{
+               "lat" : 31.209078,
+               "lng" : 29.917263
+            }
+  },{
+    "name":"Alexandria Stadium",
+    "location":{
+      "lat" : 31.197275,
+      "lng" : 29.913697
+    }
+  },{
+    "name":"Alexandria National Museum",
+    "location":{
+      "lat" : 31.200955,
+      "lng" : 29.913258
+    }
+  },{
+    "name":"Royal Jewelry Museum",
+    "location":{
+      "lat" : 31.2407,
+      "lng" : 29.9633
+    }
+  }]
+}
